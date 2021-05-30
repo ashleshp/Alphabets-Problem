@@ -17,6 +17,8 @@ c is moved 23 times, z is reached. 28-th is f.
 
 Question: 
 a/ Write an algorithm to solve the above issue. Please consider the complexity of the algorithm.
+
+
 b/ What is the disadvantage of using the ASCII value of the letters to solve this problem?
 
 
