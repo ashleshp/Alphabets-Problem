@@ -20,7 +20,9 @@ a/ Write an algorithm to solve the above issue. Please consider the complexity o
 b/ What is the disadvantage of using the ASCII value of the letters to solve this problem?
 
 
-Answer a) python file above
+Answer a) python file above.
+
+
 Answer b) The problem is solved using ascii values which have 128 charcters and every character entered in string will be converted to charter+n'th 
           character, We could probably solve this porblem by making a list/array of alphabets both inlcuding capital as well as small case , And then solve using
           list. There also a problem in this code because after "Z" it does continue with alphabets but displays character after "Z" like "[ /" etc.
